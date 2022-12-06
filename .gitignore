@@ -1,0 +1,11 @@
+input_*.txt
+out_*.txt
+
+# Binaries
+taskC
+taskD
+taskE
+taskF
+taskG
+taskH
+taskI
